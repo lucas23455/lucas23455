@@ -5,19 +5,19 @@
   <img  height="230px" weidth"240px" src="https://raw.githubusercontent.com/lucas23455/lucas23455/main/header-github.gif" alt="Oi, sou Mathieu">
 </p>
 
-✔ Cursando Ciencia da Computaçao <br>
-😁 
+* ✔ Cursando Ciencia da Computaçao 
+* 😁 
 🗝
 
-
+## Linguagens do meu dia á dia☀ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> <br>
+</div> 
 
-
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Minhas estatiticas no GitHub
 <div>
   <a href="https://github.com/lucas23455">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucas23455&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
