@@ -5,9 +5,10 @@
   <img  height="230px" weidth"240px" src="https://raw.githubusercontent.com/lucas23455/lucas23455/main/header-github.gif" alt="Oi, sou Mathieu">
 </p>
 
-* ✔ Cursando Ciencia da Computaçao 
-* 😁 
-🗝
+* 📕 Cursando Ciencia da Computaçao 
+* 🌱 Em busca de um emprego na area de TI
+* 🎈Sempre em busca de conhecimento 
+
 
 ## Linguagens do meu dia á dia☀ 
 <div style="display: inline_block"><br>
