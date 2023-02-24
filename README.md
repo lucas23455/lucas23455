@@ -8,7 +8,7 @@
   
 </div>
 <p align="center">
-  <img  height="230px" weidth"240px" src="https://raw.githubusercontent.com/lucas23455/lucas23455/main/header-github.gif" alt="Oi, sou Mathieu">
+  <img  height="230px" weidth"240px" src="https://raw.githubusercontent.com/lucas23455/lucas23455/main/header-github.gif">
 </p>
 
 * 📕 Cursando Ciencia da Computaçao 
