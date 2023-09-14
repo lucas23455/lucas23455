@@ -2,6 +2,7 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/lucas-souza-passos-99226b191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://contate.me/lucaspassos" rel="nofollow"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white " alt="whatsapp-logo"><a/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=122359&height=120&section=header"/>
