@@ -19,8 +19,6 @@
   <a href="https://github.com/lucas23455">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucas23455&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS23455&layout=compact&langs_count=7&theme=react" />
-    
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F207939707780724495%2F&psig=AOvVaw2Bo4cSi1dsrgscSFSSMtGW&ust=1694741339518000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDf6835qIEDFQAAAAAdAAAAABA5
 </div>
 
 ##
