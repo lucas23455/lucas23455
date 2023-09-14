@@ -7,9 +7,8 @@
   <a href="https://www.linkedin.com/in/lucas-souza-passos-99226b191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<p align="center">
-  <img  height="230px" weidth"240px" src="https://raw.githubusercontent.com/lucas23455/lucas23455/main/header-github.gif">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE6E96&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Victor+Barreto;I'm+21+years+old;I+from+Brazil;I'm+Studying+Information+systemm;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 * 📕 Cursando Ciencia da Computaçao 
 * 🌱 Em busca de um emprego na area de TI
