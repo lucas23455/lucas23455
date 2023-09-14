@@ -20,7 +20,10 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucas23455&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS23455&layout=compact&langs_count=7&theme=react" />
 
-   ![gato](https://github.com/lucas23455/lucas23455/assets/80688055/d85fe68a-af25-4e28-9e2e-d595bed91ce9)
+    <div height=100% >
+      ![gato](https://github.com/lucas23455/lucas23455/assets/80688055/d85fe68a-af25-4e28-9e2e-d595bed91ce9)
+    </div>
+   
 </div>
 
 ##
