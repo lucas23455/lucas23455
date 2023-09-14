@@ -20,7 +20,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=lucas23455&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS23455&layout=compact&langs_count=7&theme=react" />
 
-    https://github.com/lucas23455/lucas23455/blob/main/header-github.gif
+    lucas23455/blob/main/header-github.gif
 </div>
 
 ##
