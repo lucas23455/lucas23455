@@ -26,7 +26,8 @@
 
 ##
 
-  <img src="/snake.svg" width="80%">
+ <img src="/snake.svg" width="80%">
+  </br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=122359&height=120&section=footer"/>
 
