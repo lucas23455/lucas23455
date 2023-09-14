@@ -12,7 +12,7 @@
 
 
 ## My everyday languages☀ 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)<br/>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Minhas estatiticas no GitHub
 <div>
