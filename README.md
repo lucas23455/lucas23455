@@ -15,7 +15,7 @@
 
 
 ## My Everyday Languages☀ 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,sass,py)](https://skillicons.dev)<br/>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats on GitHub
 <div>
