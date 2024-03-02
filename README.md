@@ -28,6 +28,7 @@
 ![mario](https://github.com/lucas23455/Portfolio_3.0/assets/80688055/7613ee78-127d-41df-bc88-bc7e0c7953b6)
 ##
 
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e81b0&height=120&section=footer"/>
 
