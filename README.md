@@ -14,8 +14,12 @@
 
 
 
-## My Everyday Languages☀ 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,sass,py)](https://skillicons.dev)<br/>
+# My Skills☀
+## Front-end
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,react,sass)](https://skillicons.dev)<br/>
+
+## Back-end
+[![SkillIcons](https://skillicons.dev/icons?i=py,css,js,react,sass)](https://skillicons.dev)<br/>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats on GitHub
 <div>
